@@ -1,6 +1,6 @@
 #SOFTWARE CARPENTRY WORKSHOP NOTES
 # FEB. 2-3 2016
-
+#Yes indeed this sounds cool
 ##############################################################################-
 # Day 1:  ####
 # START WITH SOME BASIC FUNCTIONALITIES IN R  ###############-
